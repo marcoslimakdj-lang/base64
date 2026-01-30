@@ -1,0 +1,12 @@
+{
+  "codigos": [
+    "SEU_CODIGO_BASE64_1_AQUI",
+    "SEU_CODIGO_BASE64_2_AQUI",
+    "SEU_CODIGO_BASE64_3_AQUI",
+    "SEU_CODIGO_BASE64_4_AQUI",
+    "SEU_CODIGO_BASE64_5_AQUI"
+  ],
+  "total_codigos": 5,
+  "status": "ativo",
+  "criado_em": "2024-01-01"
+}
