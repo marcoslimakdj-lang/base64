@@ -1,7 +1,4 @@
 <?php
-// base64_simples.php - APENAS ISSO
 $base64 = "UEsDBBQACAgIAFpCpVsAAAAAAAAAAAAAAAAMAAAAZmlsZS50eHRLS0vMSS0u0c3PTC9KTdEtyM9LLM0p1s1LLSrRLU4tKtYtSExP1S0oSi0uzdAtKMrMSweJFSWWpBaXpGam6qYCAFBLBwi0BS4KCAAAAAACAAAA";
-
-// APENAS o Base64, sem nada mais
-echo trim($base64);
+echo $base64;
 ?>
